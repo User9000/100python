@@ -1,0 +1,11 @@
+hello
+world
+pluto
+CARLO
+carlo
+JUPITER
+NEPTUNE
+SUN
+SATURN
+MOON
+clear
